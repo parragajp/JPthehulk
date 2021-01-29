@@ -10,7 +10,7 @@ The repo may include:
  - .ipynb/.py files
  - R files
  
- I love Data Science! Working in Rstudio and Jupyter Notebook is super fun.
+ I love Data Science! Working in Rstudio and Jupyter Notebook is the best!
  
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FAshamedWeightyDachshund-max-1mb.gif&f=1&nofb=1">
  
